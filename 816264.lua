@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("This Script is currently Offline please contact the support")
+print("Hello World")
