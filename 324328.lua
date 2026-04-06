@@ -1,1 +1,1 @@
--- VentyLoader Cloud Script
+print("Venty is geil die geile sau")
