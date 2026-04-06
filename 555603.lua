@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("This script is currently Offline Please Contact the Support")
+print("Venty Loader is Comming at 10 Reactions")
