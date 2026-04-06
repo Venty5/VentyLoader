@@ -1,1 +1,1 @@
--- VentyLoader Cloud Script
+print("Hello World")
