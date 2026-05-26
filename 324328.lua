@@ -1,1 +1,0 @@
-print("Venty is geil die geile sau")
