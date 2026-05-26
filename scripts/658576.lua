@@ -1,1 +1,0 @@
-print("Skidding is not good")
